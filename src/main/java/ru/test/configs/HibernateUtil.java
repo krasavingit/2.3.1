@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.configs;
 
 import org.hibernate.jpa.HibernatePersistenceProvider;
 import org.springframework.beans.factory.annotation.Autowired;

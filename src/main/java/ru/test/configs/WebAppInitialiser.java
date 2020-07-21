@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.configs;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

@@ -1,10 +1,6 @@
 package ru.test.service;
 
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import ru.test.dao.UserDao;
 import ru.test.models.User;

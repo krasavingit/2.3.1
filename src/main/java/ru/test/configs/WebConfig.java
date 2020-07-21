@@ -1,4 +1,4 @@
-package ru.test;
+package ru.test.configs;
 
 import org.hibernate.SessionFactory;
 import org.springframework.context.ApplicationContext;
